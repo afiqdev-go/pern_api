@@ -55,3 +55,4 @@ db.courses.hasMany(db.transactions, {
 });
 
 module.exports = db;
+// comments
